@@ -13,4 +13,7 @@ int main() {
 	printf("Your number multipled by 2 is: %d\n",newnum);
 	return 0;
 	
+	//Insert a new string into a sentance
+	
+	
 }
